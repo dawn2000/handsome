@@ -1,4 +1,4 @@
-# handsome免授权版  Typecho主题
+# handsome免授权版 Typecho主题
 
 ## 版本介绍
 
