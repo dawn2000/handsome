@@ -6,4 +6,8 @@
 
 ## 使用教程
 
-待定
+- 下载[releases](https://github.com/dawn2000/handsome/releases/)版本源码
+
+- 解压到Typecho博客根目录
+
+- 登录后台启用Handsome插件 随后启用Handsome主题即可
